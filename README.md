@@ -7,8 +7,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
-
 - :school: I am a `Master` at [BUAA](https://www.buaa.edu.cn/) at [LDMC Lab](http://www.ldmcnlp.com/about/), following professor [Jianwei Niu](https://scholar.google.com/citations?user=KOciOtEAAAAJ&hl=zh-CN&oi=ao).
 - :student: I’m currently doing research in `Image Generation` and `Reinforcement Learning`, in `Meituan`.
 - :trophy: National First Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM); National First Prize, National Student Computer System Capability Challenge (NSCSCC)
