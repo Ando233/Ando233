@@ -1,9 +1,32 @@
-<h1 align="left">Hi 👋, I'm Ando</h1>
+<h1 align="center">Hi , I'm Ando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=AIGC+Researcher;Computer+Science+Master;Competitive+Programmer;Candidate+Master+on+Codeforces;Division+1+on+Codechef+(5+Stars);Always+learning+new+things"></a>
+</p>
 
-[![](https://github-readme-stats.vercel.app/api?username=Ando233&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ando233&layout=compact&theme=shades-of-purple&card_width=445&hide=CSS,HTML&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔭 I’m currently studying at [BUAA](https://en.wikipedia.org/wiki/Beihang_University)
-- 📃 Welcome to visit my [blog](https://Ando233.github.io)
-- 📫 How to reach me: <a href="mailto:2974376016@qq.com">email</a>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I am a `Master` at [BUAA](https://www.buaa.edu.cn/) at [LDMC Lab](http://www.ldmcnlp.com/about/), following professor [Jianwei Niu](https://scholar.google.com/citations?user=KOciOtEAAAAJ&hl=zh-CN&oi=ao).
+- :student: I’m currently doing research in `Image Generation` and `Reinforcement Learning`, in Meituan.
+- :trophy: National First Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM); National First Prize, National Student Computer System Capability Challenge (NSCSCC)
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :nerd_face: Always `learning new things`.
+- :boom: You can visit [MY WEBSITE](https://ando233.github.io/).
+<br>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+	<a href="flairando@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Ando233"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
