@@ -10,10 +10,10 @@
 <br><br>
 
 - :school: I am a `Master` at [BUAA](https://www.buaa.edu.cn/) at [LDMC Lab](http://www.ldmcnlp.com/about/), following professor [Jianwei Niu](https://scholar.google.com/citations?user=KOciOtEAAAAJ&hl=zh-CN&oi=ao).
-- :student: I’m currently doing research in `Image Generation` and `Reinforcement Learning`, in Meituan.
+- :student: I’m currently doing research in `Image Generation` and `Reinforcement Learning`, in `Meituan`.
 - :trophy: National First Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM); National First Prize, National Student Computer System Capability Challenge (NSCSCC)
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :nerd_face: Always `learning new things`.
+- :computer: I am a competitive programmer at `Codeforces`(Candidate Master), `Atcoder`, `Leetcode`, `Codechef`.
+- :nerd_face: Always learning new things, and interested in creative things.
 - :boom: You can visit [MY WEBSITE](https://ando233.github.io/).
 <br>
 
