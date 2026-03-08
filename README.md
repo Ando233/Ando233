@@ -11,7 +11,7 @@
 - :student: I’m currently doing research in `Image Generation` and `Reinforcement Learning`, in `Meituan`.
 - :thinking: I’m currently open for a new `Phd opportunity`, this is [MY RESUME](https://github.com/Ando233/resume/blob/master/ando-resume-cn.pdf).
 - :trophy: National First Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM); National First Prize, National Student Computer System Capability Challenge (NSCSCC)
-- :computer: I am a competitive programmer at `Codeforces`(Candidate Master), `Atcoder`, `Leetcode`, `Codechef`.
+- :computer: I am a competitive programmer at [Codeforces](https://codeforces.com/profile/ando)(Candidate Master), `Atcoder`, `Leetcode`, `Codechef`.
 - :nerd_face: Always learning new things, and interested in creative things.
 - :boom: You can visit [MY WEBSITE](https://ando233.github.io/).
 <br>
