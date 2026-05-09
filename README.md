@@ -9,7 +9,7 @@
 
 - :school: I am a `Master` at [BUAA](https://www.buaa.edu.cn/) at [LDMC Lab](http://www.ldmcnlp.com/about/), following professor [Jianwei Niu](https://scholar.google.com/citations?user=KOciOtEAAAAJ&hl=zh-CN&oi=ao).
 - :student: I’m currently doing research in `Image Generation` and `Reinforcement Learning`, in `Meituan`.
-- :thinking: I’m currently open for a new `Phd opportunity`, this is [MY RESUME](https://github.com/Ando233/resume/blob/master/ando-resume-cn.pdf).
+- :thinking: I’m currently open for a new `Job/Phd opportunity`, this is [MY RESUME](https://github.com/Ando233/resume/blob/master/ando-resume-cn.pdf).
 - :trophy: National First Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM); National First Prize, National Student Computer System Capability Challenge (NSCSCC)
 - :computer: I am a competitive programmer at [Codeforces](https://codeforces.com/profile/ando)(Candidate Master), `Atcoder`, `Leetcode`, `Codechef`.
 - :nerd_face: Always learning new things, and interested in creative things.
